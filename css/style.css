@@ -1,0 +1,23 @@
+.container-fluid {
+  background-color: #7F8487;
+  padding: 2% 15% 8%;
+  text-align: center;
+}
+
+.big-heading {
+  margin: 0 auto 5%;
+  font-size: 8rem;
+  font-family: 'Lobster';
+  font-weight: 900;
+}
+
+.player-heading {
+  font-family: 'Indie Flower';
+  font-size: 2rem;
+  font-weight: bolder;
+  padding: 8%;
+}
+
+.dice-image {
+  width: 75%;
+}
