@@ -1,10 +1,8 @@
-$("h1").click(function() {
+document.querySelector("h1").onclick = function() {
 
   clickHeading();
-  $("h1").fadeOut(100).fadeIn(100);
-  $(".dice-image").slideUp(100).slideDown(100).fadeIn(100);
-
-});
+  
+};
 
 function clickHeading() {
 
